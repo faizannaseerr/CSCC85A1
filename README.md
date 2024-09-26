@@ -1,1 +1,1 @@
-# CSCC85A1
+# CSCC85 - A1 (Fault Tolerance)
